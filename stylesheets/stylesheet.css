@@ -164,6 +164,24 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
+#view-on-twitter span {
+  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+}
+#view-on-twitter {
+  margin-right: 0;
+}
+#view-on-googleplus span {
+  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+}
+#view-on-googleplus {
+  margin-right: 0;
+}
+#view-on-blogger span {
+  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+}
+#view-on-blogger {
+  margin-right: 0;
+}
 
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
